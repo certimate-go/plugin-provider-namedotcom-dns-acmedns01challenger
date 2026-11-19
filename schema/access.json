@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "form/v1",
+  "provider": "namedotcom",
+  "category": "access",
+  "schema": {
+    "columns": [
+      {
+        "name": "username",
+        "valueType": "text",
+        "labelKey": "plugin.namedotcom-dns.access.username.label",
+        "tooltipKey": "plugin.namedotcom-dns.access.username.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.namedotcom-dns.access.username.placeholder",
+        "required": true
+      },
+      {
+        "name": "apiToken",
+        "valueType": "secret",
+        "labelKey": "plugin.namedotcom-dns.access.apiToken.label",
+        "tooltipKey": "plugin.namedotcom-dns.access.apiToken.tooltip",
+        "tooltipHtml": true,
+        "placeholderKey": "plugin.namedotcom-dns.access.apiToken.placeholder",
+        "secret": true,
+        "required": true
+      }
+    ]
+  }
+}

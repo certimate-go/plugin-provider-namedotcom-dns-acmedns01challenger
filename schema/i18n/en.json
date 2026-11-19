@@ -1,0 +1,10 @@
+{
+  "plugin.namedotcom-dns.name": "Name.com",
+  "plugin.namedotcom-dns.description": "ACME DNS-01 via Name.com.",
+  "plugin.namedotcom-dns.access.username.label": "Name.com username",
+  "plugin.namedotcom-dns.access.username.tooltip": "For more information, see <a href=\"https://www.name.com/account/settings/api\" target=\"_blank\">https://www.name.com/account/settings/api</a>",
+  "plugin.namedotcom-dns.access.username.placeholder": "Please enter Name.com username",
+  "plugin.namedotcom-dns.access.apiToken.label": "Name.com API token",
+  "plugin.namedotcom-dns.access.apiToken.tooltip": "For more information, see <a href=\"https://www.name.com/support/articles/31142639244819-how-to-manage-your-api-tokens\" target=\"_blank\">https://www.name.com/support/articles/31142639244819-how-to-manage-your-api-tokens</a>",
+  "plugin.namedotcom-dns.access.apiToken.placeholder": "Please enter Name.com API token"
+}

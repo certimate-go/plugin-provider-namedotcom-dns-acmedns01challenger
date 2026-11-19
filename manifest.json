@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "namedotcom",
+  "binary": "namedotcom-dns.exe",
+  "capability": "dns",
+  "description": "ACME DNS-01 via Name.com.",
+  "display_name_key": "plugin.namedotcom-dns.name",
+  "icon": "icon.svg",
+  "min_core_version": "",
+  "protocol_version": 4,
+  "provider_type": "namedotcom-dns",
+  "provider_aliases": [
+    "namedotcom"
+  ],
+  "usages": [
+    "dns"
+  ],
+  "version": "0.1.0"
+}
